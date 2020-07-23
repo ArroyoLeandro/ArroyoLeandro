@@ -2,7 +2,7 @@
 <img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='200"'>  
 
 # BIO
-CEO on [Sistemas FA](https://sistemasfa.com)
+CEO and Full Stack Developer on [Sistemas FA](https://sistemasfa.com)
 
 
 #### Contact me on Instagram: @sistemas.fa
