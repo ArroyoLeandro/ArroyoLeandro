@@ -1,5 +1,5 @@
 <img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='300"'>  
-<img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='300"'>  
+<img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='100"'>  
 
 # BIO
 CEO on [Sistemas FA](https://sistemasfa.com)
@@ -13,7 +13,7 @@ CEO on [Sistemas FA](https://sistemasfa.com)
 
 | <a href="https://sistemasfa.com" target="_blank">**Sistemas FA**</a> | <a href="http://nochestore.com" target="_blank">**Noche Store**</a> | <a href="http://lacasamotor.com.ar" target="_blank">**La Casa del Motor**</a> |<a href="https://arroyoleandro.github.io/nutridia" target="_blank">**Nutridia**</a> |
 | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemas.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'>  |
+| <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemasfa.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'>  |
 
 
 
