@@ -1,4 +1,4 @@
-<img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='300"'>  
+<img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='200"'>  
 <img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='200"'>  
 
 # BIO
