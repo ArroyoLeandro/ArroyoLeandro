@@ -13,15 +13,13 @@ CEO on [Sistemas FA](https://sistemasfa.com)
 
 &nbsp;
 
-
-&nbsp;
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
 
 | <a href="https://sistemasfa.com" target="_blank">**Sistemas FA**</a> | <a href="http://nochestore.com" target="_blank">**Noche Store**</a> | <a href="http://lacasamotor.com.ar" target="_blank">**La Casa del Motor**</a> |<a href="https://arroyoleandro.github.io/nutridia" target="_blank">**Nutridia**</a> |
 | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemasfa.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'>  |
+| <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemasfa.png' height='100px'> | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'>  |
 
 
 
