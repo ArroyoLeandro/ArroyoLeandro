@@ -1,5 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='200"'>  
-<img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='200"'>  
+<img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='300"'>  
+<img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='300"'>  
 
 # BIO
 CEO on [Sistemas FA](https://sistemasfa.com)
@@ -10,14 +10,10 @@ CEO on [Sistemas FA](https://sistemasfa.com)
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
-| <a href="https://sistemasfa.com" target="_blank">**Sistemas FA**</a> | <a href="http://nochestore.com" target="_blank">**Noche Store**</a> | <a href="http://lacasamotor.com.ar" target="_blank">**La Casa del Motor**</a> |
-|:---: | :---: | :---: | :---:|
-| <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemas.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  |
 
-
-| <a href="http://slicklearn.xyz" target="_blank">**asd**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**asdasd**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**asd**</a> |<a href="https://github.com/2lstudios/lune-auth" target="_blank">**asd**</a> |
+| <a href="https://sistemasfa.com" target="_blank">**Sistemas FA**</a> | <a href="http://nochestore.com" target="_blank">**Noche Store**</a> | <a href="http://lacasamotor.com.ar" target="_blank">**La Casa del Motor**</a> |<a href="https://arroyoleandro.github.io/nutridia" target="_blank">**Nutridia**</a> |
 | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemas.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  | 
+| <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemas.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoCasaMotor.png' height='100px'>  | <img align='center' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'>  |
 
 
 
