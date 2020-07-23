@@ -1,4 +1,4 @@
-<img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='200"'>  
+<img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='300"'>  
 <img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='200"'>  
 
 # BIO
@@ -7,6 +7,14 @@ CEO on [Sistemas FA](https://sistemasfa.com)
 
 #### Contact me on Instagram: @sistemas.fa
 
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
