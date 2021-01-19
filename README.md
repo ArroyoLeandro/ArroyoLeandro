@@ -1,29 +1,24 @@
 <img align='left' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/leftSprite.gif' width='200"'>  
-<img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='200"'>  
+<img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif' width='200"'>
 
 # BIO
-CTO and Full Stack Developer on [Sistemas FA](https://sistemasfa.com)
 
+CTO and Full Stack Developer on [Sistemas FA](https://sistemasfa.com)
 
 #### Contact me on Instagram: @sistemas.fa
 
+&nbsp;
 
 &nbsp;
 
-
 &nbsp;
 
-
-&nbsp;
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
-
-| <a href="https://sistemasfa.com" target="blank">**Sistemas FA**</a> | <a href="http://nochestore.com" target="blank">**Noche Store**</a> | <a href="https://arroyoleandro.github.io/Intia-Landing/" target="blank">**Intia**</a> |<a href="https://arroyoleandro.github.io/nutridia" target="blank">**Nutridia**</a> |
-| :---: | :---: | :---: | :---: |
-| <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemasfa.png' height='100px'> | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/Intia-Landing/2c7afc1b59a450dc2cf2ee158df1cc0ba26ba298/img/logo-landing.svg' height='100px'>  | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'>  |
-
-
+|                               <a href="https://sistemasfa.com" target="blank">**Sistemas FA**</a>                               |                             <a href="http://nochestore.com" target="blank">**Noche Store**</a>                             |                                        <a href="https://arroyoleandro.github.io/Intia-Landing/" target="blank">**Intia**</a>                                         |                      <a href="https://arroyoleandro.github.io/nutridia" target="blank">**Nutridia**</a>                       |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+| <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoSistemasfa.png' height='100px'> | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNoche.png' height='100px'> | <img align='right' src='https://raw.githubusercontent.com/ArroyoLeandro/Intia-Landing/2c7afc1b59a450dc2cf2ee158df1cc0ba26ba298/img/logo-landing.jpg' height='100px'> | <img align='right' src='https://github.com/ArroyoLeandro/ArroyoLeandro/blob/master/projects/logoNutridia.png' height='100px'> |
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
