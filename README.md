@@ -1,35 +1,25 @@
-<table>
-  <tr>
-    <td valign="top" width="180">
-      <img src="sprite/leftSprite.gif" width="180">
-    </td>
-    <td valign="top">
-      <h1>Leandro Martin Arroyo</h1>
-      <h3>Frontend Developer <sub>(React / Next.js / Angular)</sub></h3>
-      <p>
-        Frontend Developer especializado en <b>React</b>, <b>Next.js</b> y <b>Angular</b>, con experiencia en desarrollo de aplicaciones escalables y optimización de performance. Experiencia en implementación de diseños Figma y mejora de experiencia de usuario en entornos e-commerce. Background en backend que facilita colaboración full-cycle y resolución de problemas complejos.
-      </p>
-      <a href="https://linkedin.com/in/arroyoleandro" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-arroyoleandro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="mailto:leandro.martin.arroyo@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="right" width="150" src="sprite/rightSprite.gif" alt="Coding">
+<h1>Leandro Martin Arroyo</h1>
+<h3>Frontend Developer (React / Next.js / Angular)</h3>
+<a href="https://linkedin.com/in/arroyoleandro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-arroyoleandro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:leandro.martin.arroyo@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<br clear="all">
+
+Frontend Developer especializado en <b>React</b>, <b>Next.js</b> y <b>Angular</b>, con experiencia en desarrollo de aplicaciones escalables y optimización de performance. Experiencia en implementación de diseños Figma y mejora de experiencia de usuario en entornos e-commerce. Background en backend que facilita colaboración full-cycle y resolución de problemas complejos.
+
+
+<br clear="all">
 
 <hr>
 
 <h2 align="center">Proyectos Destacados</h2>
-<p align="center">Hacé clic en <b>Ver Captura</b> para desplegar la pantalla de cada proyecto.</p>
 
 <div align="center">
 
 <a href="https://sistemasfa.com/" target="_blank"><img src="projects/logoSistemasfa2.png" height="75" alt="Sistemas FA"></a>
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Ver_Captura-0076ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Captura"></summary>
+  <summary><b>Ver Captura</b></summary>
   <br>
   <img src="screens/sistemas-fa/home.png" width="700">
 </details>
@@ -39,7 +29,7 @@
 <img src="projects/logoNoche.png" height="75" alt="Noche Store">
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Ver_Captura-0076ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Captura"></summary>
+  <summary><b>Ver Captura</b></summary>
   <br>
   <img src="screens/noche/home.png" width="700">
 </details>
@@ -49,7 +39,7 @@
 <a href="https://arroyoleandro.github.io/Intia-Landing/" target="_blank"><img src="projects/logoIntia.jpg" height="75" alt="Intia"></a>
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Ver_Captura-0076ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Captura"></summary>
+  <summary><b>Ver Captura</b></summary>
   <br>
   <img src="screens/intia/home.png" width="700">
 </details>
@@ -59,7 +49,7 @@
 <a href="https://arroyoleandro.github.io/Zonit/" target="_blank"><img src="projects/logoZonit.png" height="75" alt="ZonIT"></a>
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Ver_Captura-0076ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Captura"></summary>
+  <summary><b>Ver Captura</b></summary>
   <br>
   <img src="screens/zonIT/home.png" width="700">
 </details>
@@ -69,7 +59,7 @@
 <a href="https://europ-assistance.lat/home?ARGENTINA" target="_blank"><img src="projects/logoEuropAssistance.png" height="75" alt="Europ Assistance"></a>
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Ver_Captura-0076ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Captura"></summary>
+  <summary><b>Ver Captura</b></summary>
   <br>
   <img src="screens/europassistance/home.png" width="700">
 </details>
