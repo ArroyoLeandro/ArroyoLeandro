@@ -1,14 +1,14 @@
 <img align="right" width="150" src="sprite/rightSprite.gif" alt="Coding">
 <h1>Leandro Martin Arroyo</h1>
 <h3>Frontend Developer (React / Next.js / Angular)</h3>
-<a href="https://linkedin.com/in/arroyoleandro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-arroyoleandro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:leandro.martin.arroyo@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <br clear="all">
 
 Frontend Developer especializado en <b>React</b>, <b>Next.js</b> y <b>Angular</b>, con experiencia en desarrollo de aplicaciones escalables y optimización de performance. Experiencia en implementación de diseños Figma y mejora de experiencia de usuario en entornos e-commerce. Background en backend que facilita colaboración full-cycle y resolución de problemas complejos.
 
-
 <br clear="all">
+
+<a href="https://linkedin.com/in/arroyoleandro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-arroyoleandro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:leandro.martin.arroyo@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <hr>
 
